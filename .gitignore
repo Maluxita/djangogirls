@@ -1,0 +1,7 @@
+*~
+*.pyc
+*__pycache__/
+djgenv/
+db.sqlite3
+hola.html
+myvenv/
